@@ -20,6 +20,7 @@ pengenalan konsep dasar: sesi Day 1 dibuka dengan pemahaman fundamental mengenai
 
 penyelarasan alur kerja: Pemateri menjelaskan tahapan-tahapan krusial mulai dari inisiasi, perancangan struktur, hingga implementasi awal secara langsung atau secara digital
 
+# Pendapat Pribadi ttg Day 1
 walaupun terasa sangat ngantuk pada awalnya, tetapi hal ini bermanfaat dan seru, pelaksanaan workshop pada hari pertama ini memberikan gambaran yang sangat jelas dan terstruktur mengenai arah proyek yang akan dikerjakan. Suasana sesi yang interaktif serta pemaparan materi yang aplikatif sangat membantu dalam memahami esensi dari tugas yang diberikan. Meskipun ada beberapa penyesuaian di awal, panduan yang diberikan membuat proses pemahaman materi menjadi jauh lebih terarah dan menantang untuk dieksplorasi lebih lanjut
 
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/d4f20eae-bb17-46ee-8260-c25677223a3a" />
